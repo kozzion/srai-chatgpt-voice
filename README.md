@@ -8,7 +8,7 @@ Tired of typing promts to have Chat gpt do your work for you? use chatgpt-voice!
 3. cd srai-chatgpt-voice
 4. python -m venv venv_gv
 5. source venv_gv/Scripts/activate
-6. pip install -r requirments.txt
+6. pip install -r requirements.txt
 7. python voice.py
 8. Aboslute magic
 9. Profit!!!!
